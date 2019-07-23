@@ -2,4 +2,4 @@
 http://www.ravikatre.in
 
 Demo
-http://generikart.com/
+http://dev2.genericure.in/
